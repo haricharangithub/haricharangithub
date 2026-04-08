@@ -52,9 +52,10 @@ I enjoy turning raw data into meaningful insights and building intelligent syste
 
 ## 📈 GitHub Stats
 
-![Haricharan's GitHub stats](https://github-readme-stats.vercel.app/api?username=haricharangithub\&show_icons=true\&theme=tokyonight)
+![Haricharan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haricharangithub\&show_icons=true\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haricharangithub\&layout=compact\&theme=tokyonight)
+
 
 ---
 
